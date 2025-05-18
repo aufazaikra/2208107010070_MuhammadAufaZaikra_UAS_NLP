@@ -1,0 +1,1 @@
+# 2208107010070_MuhammadAufaZaikra_UAS_NLP
