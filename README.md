@@ -1,3 +1,5 @@
+# UAS Praktikum Pemrosesan Bahasa Alami
+
 Proyek ini adalah tugas akhir untuk Praktikum Pemrosesan Bahasa Alami. Aplikasi ini mengintegrasikan **Speech-to-Text (STT)**, **Large Language Model (LLM)**, dan **Text-to-Speech (TTS)** menggunakan teknologi **Whisper.cpp**, **Gemini API**, **Coqui TTS**, **FastAPI**, dan **Gradio**.
  
  ## Struktur Proyek
